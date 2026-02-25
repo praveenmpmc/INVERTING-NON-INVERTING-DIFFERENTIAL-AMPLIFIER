@@ -34,6 +34,7 @@ A circuit that amplifies that amplifies the difference between two input signals
 <img width="585" height="360" alt="image" src="https://github.com/user-attachments/assets/3cc336e5-ae5b-4863-b1e7-b37fdacffe09" />
 
 ### PRACTICAL GRAPH
+<img width="418" height="613" alt="image" src="https://github.com/user-attachments/assets/b752346c-ca2c-48d5-ad90-92a483fd75c7" />
 
 ### CIRCUIT DIAGRAM
 
@@ -45,15 +46,16 @@ A circuit that amplifies that amplifies the difference between two input signals
 ### TABULATION
 | S.No | Vin (volts) | Time (ms) | Vo (Theoretical) [V] | Vo (Practical) [V] |
 |------|-------------|-----------|-----------------------|---------------------|
-| 1    |             |           |                       |                     |
-| 2    |             |           |                       |                     |
-| 3    |             |           |                       |                     |
+| 1    |  1.2        |    0.1ms  |        12             |         13          |
+| 2    |  0.6        |    0.2ms |         6              |         6.4         |
+| 3    |  1.32       |    0.3ms  |       13.2            |      14.80          |
 
 
 # MODEL GRAPH
 <img width="667" height="445" alt="image" src="https://github.com/user-attachments/assets/12729150-ffab-409c-ac6c-c1992b42b9c4" />
 
 ### PRACTICAL GRAPH
+<img width="490" height="712" alt="image" src="https://github.com/user-attachments/assets/0f5c435f-554c-4217-9ea9-a2f81d708189" />
 
 ### CIRCUIT DIAGRAM
 
@@ -64,9 +66,9 @@ A circuit that amplifies that amplifies the difference between two input signals
 ### TABULATION
 | S.No | Vin (volts) | Time (ms) | Vo (Theoretical) [V] | Vo (Practical) [V] |
 |------|-------------|-----------|-----------------------|---------------------|
-| 1    |             |           |                       |                     |
-| 2    |             |           |                       |                     |
-| 3    |             |           |                       |                     |
+| 1    |     0.62v   | 0.1       | 6.82v                 |   6.60v             |
+| 2    |     1.1v    | 0.2       |  12.1v                |    11.2v            |
+| 3    |     1.5v    | 0.3       |  16.5v                |    15v              |
 
 # MODEL GRAPH
 <img width="940" height="401" alt="image" src="https://github.com/user-attachments/assets/9a1a005e-447f-498f-b473-ebf591512669" />
